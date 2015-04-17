@@ -1,4 +1,4 @@
-phylo-scripts
+alignment-viz
 =========
 
 This repository contains python/processing scripts to help to visualize alignments for phylogenetics.
